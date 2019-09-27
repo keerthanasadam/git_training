@@ -1,1 +1,1 @@
-I am Bob. I am added to check as aprt of git training.
+I am Bob. I am added to check as part of git training. I am modified again.
