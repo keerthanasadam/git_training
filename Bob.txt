@@ -1,1 +1,1 @@
-I am Bob. I am added to check as part of git training. I am modified again.
+I am Bob. I am added to check as part of git training. I am modified to see the diff command. What happens now ?
